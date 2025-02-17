@@ -1,6 +1,6 @@
 <h1>🚀 Sobre Mim </h1>
         <p>👋 Olá! Sou um programador apaixonado por tecnologia e desenvolvimento de software.</p>
-        <p>👨‍💻 Trabalho com <strong>HTML, CSS, JavaScript, Java, C#, Python, SQL e Git</strong>.</p>
+        <p>👨‍💻 Trabalho com <strong>HTML, CSS, JavaScript, Java, C#, SQL e Git</strong>.</p>
         <p>📚 Sempre buscando aprender e evoluir no mundo da programação.</p>
         <p>🔧 Adoro desafios e estou sempre explorando novas tecnologias.</p>
 -------------------------------------------------------------------------------------------------------
